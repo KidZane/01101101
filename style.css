@@ -1,8 +1,8 @@
 body {
-    background-color: purple;
+    background-color: antiquewhite;
 }
 
 .texto1 {
  border: 10px;
- background-color: beige;
+ border-color: black;
 }
