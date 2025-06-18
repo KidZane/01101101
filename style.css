@@ -4,5 +4,8 @@ body {
 
 .texto1 {
  border: 10px;
- border-color: black;
+ border-color: solid black;
+ position: absolute;
+ top: 50%;
+ left: 50%;
 }
