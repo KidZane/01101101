@@ -2,3 +2,10 @@ body {
     background-color: antiquewhite;
 }
 
+.PlayerText {
+font-size: 48px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+top: 95%;
+left: 50%;
+}
