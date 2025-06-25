@@ -3,10 +3,16 @@ body {
 }
 
 .PlayerText {
-  font-size: 48px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  position: absolute;
-  top: 75%;
-  left: 50%;
-  transform: translateX(-50%);
+font-size: 48px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:200px;
+    height: 200px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 100px;
+    z-index: 1;
 }
+
