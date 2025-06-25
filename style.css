@@ -5,7 +5,7 @@ body {
 .PlayerText {
 font-size: 48px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-position: relative;
+position: absolute;
 top: 95%;
 left: 50%;
 }
