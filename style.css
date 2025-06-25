@@ -3,9 +3,10 @@ body {
 }
 
 .PlayerText {
-font-size: 48px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-position: absolute;
-top: 75%;
-left: 50%;
+  font-size: 48px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translateX(-50%);
 }
